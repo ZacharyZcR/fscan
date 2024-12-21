@@ -1,3 +1,5 @@
+# 源码在原仓库Dev分支，该仓库废弃
+
 # Fscan 2.0.0
 [English][url-docen]
 
